@@ -3,7 +3,7 @@ package ch.pocketpc.nearbyglasses.history
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
-//this file represents a single detection event that is stored locally
+//this file represents a single detection event that is stored 
 
 /**DATA STORED
  * -Bluetooth manufactorer company ID
